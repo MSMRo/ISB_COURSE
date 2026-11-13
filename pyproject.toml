@@ -12,6 +12,7 @@ dependencies = [
     "isb-lib",
     "matplotlib>=3.11.2",
     "matplotlib-inline>=0.2.2",
+    "neurokit2>=0.3.0",
     "numpy>=2.5.4",
     "opensignalsreader",
     "pandas>=3.1.1",

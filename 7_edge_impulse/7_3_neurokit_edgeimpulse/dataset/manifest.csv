@@ -1,0 +1,601 @@
+class_label,display_name,target_heart_rate_bpm,sampling_rate_hz,duration_seconds,samples,seed,raw_file,edge_impulse_file
+bradicardia,Bradicardia,53,250,20,5000,768519171,bradicardia/raw/ecg_0001.csv,bradicardia/formateado/bradicardia.ecg_0001.csv
+bradicardia,Bradicardia,40,250,20,5000,2748406118,bradicardia/raw/ecg_0002.csv,bradicardia/formateado/bradicardia.ecg_0002.csv
+bradicardia,Bradicardia,45,250,20,5000,2006902500,bradicardia/raw/ecg_0003.csv,bradicardia/formateado/bradicardia.ecg_0003.csv
+bradicardia,Bradicardia,41,250,20,5000,1591287646,bradicardia/raw/ecg_0004.csv,bradicardia/formateado/bradicardia.ecg_0004.csv
+bradicardia,Bradicardia,50,250,20,5000,1524358342,bradicardia/raw/ecg_0005.csv,bradicardia/formateado/bradicardia.ecg_0005.csv
+bradicardia,Bradicardia,53,250,20,5000,3395250011,bradicardia/raw/ecg_0006.csv,bradicardia/formateado/bradicardia.ecg_0006.csv
+bradicardia,Bradicardia,51,250,20,5000,3887563175,bradicardia/raw/ecg_0007.csv,bradicardia/formateado/bradicardia.ecg_0007.csv
+bradicardia,Bradicardia,51,250,20,5000,761726157,bradicardia/raw/ecg_0008.csv,bradicardia/formateado/bradicardia.ecg_0008.csv
+bradicardia,Bradicardia,53,250,20,5000,2803689377,bradicardia/raw/ecg_0009.csv,bradicardia/formateado/bradicardia.ecg_0009.csv
+bradicardia,Bradicardia,41,250,20,5000,1281200629,bradicardia/raw/ecg_0010.csv,bradicardia/formateado/bradicardia.ecg_0010.csv
+bradicardia,Bradicardia,42,250,20,5000,4153071025,bradicardia/raw/ecg_0011.csv,bradicardia/formateado/bradicardia.ecg_0011.csv
+bradicardia,Bradicardia,51,250,20,5000,3950726355,bradicardia/raw/ecg_0012.csv,bradicardia/formateado/bradicardia.ecg_0012.csv
+bradicardia,Bradicardia,44,250,20,5000,2731044307,bradicardia/raw/ecg_0013.csv,bradicardia/formateado/bradicardia.ecg_0013.csv
+bradicardia,Bradicardia,49,250,20,5000,3232959738,bradicardia/raw/ecg_0014.csv,bradicardia/formateado/bradicardia.ecg_0014.csv
+bradicardia,Bradicardia,41,250,20,5000,2212568277,bradicardia/raw/ecg_0015.csv,bradicardia/formateado/bradicardia.ecg_0015.csv
+bradicardia,Bradicardia,50,250,20,5000,3547193123,bradicardia/raw/ecg_0016.csv,bradicardia/formateado/bradicardia.ecg_0016.csv
+bradicardia,Bradicardia,50,250,20,5000,1925779777,bradicardia/raw/ecg_0017.csv,bradicardia/formateado/bradicardia.ecg_0017.csv
+bradicardia,Bradicardia,47,250,20,5000,1455188405,bradicardia/raw/ecg_0018.csv,bradicardia/formateado/bradicardia.ecg_0018.csv
+bradicardia,Bradicardia,42,250,20,5000,1193568041,bradicardia/raw/ecg_0019.csv,bradicardia/formateado/bradicardia.ecg_0019.csv
+bradicardia,Bradicardia,42,250,20,5000,972093076,bradicardia/raw/ecg_0020.csv,bradicardia/formateado/bradicardia.ecg_0020.csv
+bradicardia,Bradicardia,53,250,20,5000,2258366144,bradicardia/raw/ecg_0021.csv,bradicardia/formateado/bradicardia.ecg_0021.csv
+bradicardia,Bradicardia,41,250,20,5000,1850753207,bradicardia/raw/ecg_0022.csv,bradicardia/formateado/bradicardia.ecg_0022.csv
+bradicardia,Bradicardia,44,250,20,5000,2848339075,bradicardia/raw/ecg_0023.csv,bradicardia/formateado/bradicardia.ecg_0023.csv
+bradicardia,Bradicardia,53,250,20,5000,55149450,bradicardia/raw/ecg_0024.csv,bradicardia/formateado/bradicardia.ecg_0024.csv
+bradicardia,Bradicardia,47,250,20,5000,1922865024,bradicardia/raw/ecg_0025.csv,bradicardia/formateado/bradicardia.ecg_0025.csv
+bradicardia,Bradicardia,55,250,20,5000,1568439596,bradicardia/raw/ecg_0026.csv,bradicardia/formateado/bradicardia.ecg_0026.csv
+bradicardia,Bradicardia,42,250,20,5000,839226300,bradicardia/raw/ecg_0027.csv,bradicardia/formateado/bradicardia.ecg_0027.csv
+bradicardia,Bradicardia,47,250,20,5000,2554929460,bradicardia/raw/ecg_0028.csv,bradicardia/formateado/bradicardia.ecg_0028.csv
+bradicardia,Bradicardia,45,250,20,5000,1869655767,bradicardia/raw/ecg_0029.csv,bradicardia/formateado/bradicardia.ecg_0029.csv
+bradicardia,Bradicardia,50,250,20,5000,1288453696,bradicardia/raw/ecg_0030.csv,bradicardia/formateado/bradicardia.ecg_0030.csv
+bradicardia,Bradicardia,55,250,20,5000,899435390,bradicardia/raw/ecg_0031.csv,bradicardia/formateado/bradicardia.ecg_0031.csv
+bradicardia,Bradicardia,54,250,20,5000,3756481720,bradicardia/raw/ecg_0032.csv,bradicardia/formateado/bradicardia.ecg_0032.csv
+bradicardia,Bradicardia,55,250,20,5000,3425074563,bradicardia/raw/ecg_0033.csv,bradicardia/formateado/bradicardia.ecg_0033.csv
+bradicardia,Bradicardia,48,250,20,5000,2605798218,bradicardia/raw/ecg_0034.csv,bradicardia/formateado/bradicardia.ecg_0034.csv
+bradicardia,Bradicardia,43,250,20,5000,1482195698,bradicardia/raw/ecg_0035.csv,bradicardia/formateado/bradicardia.ecg_0035.csv
+bradicardia,Bradicardia,47,250,20,5000,4066560036,bradicardia/raw/ecg_0036.csv,bradicardia/formateado/bradicardia.ecg_0036.csv
+bradicardia,Bradicardia,52,250,20,5000,2419687397,bradicardia/raw/ecg_0037.csv,bradicardia/formateado/bradicardia.ecg_0037.csv
+bradicardia,Bradicardia,49,250,20,5000,1858701812,bradicardia/raw/ecg_0038.csv,bradicardia/formateado/bradicardia.ecg_0038.csv
+bradicardia,Bradicardia,46,250,20,5000,3867401578,bradicardia/raw/ecg_0039.csv,bradicardia/formateado/bradicardia.ecg_0039.csv
+bradicardia,Bradicardia,40,250,20,5000,1371562603,bradicardia/raw/ecg_0040.csv,bradicardia/formateado/bradicardia.ecg_0040.csv
+bradicardia,Bradicardia,46,250,20,5000,2989275204,bradicardia/raw/ecg_0041.csv,bradicardia/formateado/bradicardia.ecg_0041.csv
+bradicardia,Bradicardia,46,250,20,5000,1347848041,bradicardia/raw/ecg_0042.csv,bradicardia/formateado/bradicardia.ecg_0042.csv
+bradicardia,Bradicardia,41,250,20,5000,1123361779,bradicardia/raw/ecg_0043.csv,bradicardia/formateado/bradicardia.ecg_0043.csv
+bradicardia,Bradicardia,41,250,20,5000,3010088699,bradicardia/raw/ecg_0044.csv,bradicardia/formateado/bradicardia.ecg_0044.csv
+bradicardia,Bradicardia,46,250,20,5000,978788595,bradicardia/raw/ecg_0045.csv,bradicardia/formateado/bradicardia.ecg_0045.csv
+bradicardia,Bradicardia,48,250,20,5000,2117892709,bradicardia/raw/ecg_0046.csv,bradicardia/formateado/bradicardia.ecg_0046.csv
+bradicardia,Bradicardia,47,250,20,5000,2491203235,bradicardia/raw/ecg_0047.csv,bradicardia/formateado/bradicardia.ecg_0047.csv
+bradicardia,Bradicardia,50,250,20,5000,811346657,bradicardia/raw/ecg_0048.csv,bradicardia/formateado/bradicardia.ecg_0048.csv
+bradicardia,Bradicardia,42,250,20,5000,3140654712,bradicardia/raw/ecg_0049.csv,bradicardia/formateado/bradicardia.ecg_0049.csv
+bradicardia,Bradicardia,55,250,20,5000,2355716823,bradicardia/raw/ecg_0050.csv,bradicardia/formateado/bradicardia.ecg_0050.csv
+bradicardia,Bradicardia,47,250,20,5000,2669336173,bradicardia/raw/ecg_0051.csv,bradicardia/formateado/bradicardia.ecg_0051.csv
+bradicardia,Bradicardia,40,250,20,5000,1598347669,bradicardia/raw/ecg_0052.csv,bradicardia/formateado/bradicardia.ecg_0052.csv
+bradicardia,Bradicardia,45,250,20,5000,1804716308,bradicardia/raw/ecg_0053.csv,bradicardia/formateado/bradicardia.ecg_0053.csv
+bradicardia,Bradicardia,51,250,20,5000,2125277282,bradicardia/raw/ecg_0054.csv,bradicardia/formateado/bradicardia.ecg_0054.csv
+bradicardia,Bradicardia,53,250,20,5000,2018509697,bradicardia/raw/ecg_0055.csv,bradicardia/formateado/bradicardia.ecg_0055.csv
+bradicardia,Bradicardia,40,250,20,5000,2901848365,bradicardia/raw/ecg_0056.csv,bradicardia/formateado/bradicardia.ecg_0056.csv
+bradicardia,Bradicardia,52,250,20,5000,2478958504,bradicardia/raw/ecg_0057.csv,bradicardia/formateado/bradicardia.ecg_0057.csv
+bradicardia,Bradicardia,55,250,20,5000,1787868796,bradicardia/raw/ecg_0058.csv,bradicardia/formateado/bradicardia.ecg_0058.csv
+bradicardia,Bradicardia,52,250,20,5000,7741048,bradicardia/raw/ecg_0059.csv,bradicardia/formateado/bradicardia.ecg_0059.csv
+bradicardia,Bradicardia,40,250,20,5000,3410337437,bradicardia/raw/ecg_0060.csv,bradicardia/formateado/bradicardia.ecg_0060.csv
+bradicardia,Bradicardia,53,250,20,5000,2230738242,bradicardia/raw/ecg_0061.csv,bradicardia/formateado/bradicardia.ecg_0061.csv
+bradicardia,Bradicardia,52,250,20,5000,1402498650,bradicardia/raw/ecg_0062.csv,bradicardia/formateado/bradicardia.ecg_0062.csv
+bradicardia,Bradicardia,51,250,20,5000,2147290469,bradicardia/raw/ecg_0063.csv,bradicardia/formateado/bradicardia.ecg_0063.csv
+bradicardia,Bradicardia,44,250,20,5000,401347227,bradicardia/raw/ecg_0064.csv,bradicardia/formateado/bradicardia.ecg_0064.csv
+bradicardia,Bradicardia,42,250,20,5000,3885674403,bradicardia/raw/ecg_0065.csv,bradicardia/formateado/bradicardia.ecg_0065.csv
+bradicardia,Bradicardia,47,250,20,5000,4250884470,bradicardia/raw/ecg_0066.csv,bradicardia/formateado/bradicardia.ecg_0066.csv
+bradicardia,Bradicardia,45,250,20,5000,252265837,bradicardia/raw/ecg_0067.csv,bradicardia/formateado/bradicardia.ecg_0067.csv
+bradicardia,Bradicardia,44,250,20,5000,1538591367,bradicardia/raw/ecg_0068.csv,bradicardia/formateado/bradicardia.ecg_0068.csv
+bradicardia,Bradicardia,51,250,20,5000,3135603484,bradicardia/raw/ecg_0069.csv,bradicardia/formateado/bradicardia.ecg_0069.csv
+bradicardia,Bradicardia,51,250,20,5000,1349642495,bradicardia/raw/ecg_0070.csv,bradicardia/formateado/bradicardia.ecg_0070.csv
+bradicardia,Bradicardia,46,250,20,5000,2435460166,bradicardia/raw/ecg_0071.csv,bradicardia/formateado/bradicardia.ecg_0071.csv
+bradicardia,Bradicardia,49,250,20,5000,1789158658,bradicardia/raw/ecg_0072.csv,bradicardia/formateado/bradicardia.ecg_0072.csv
+bradicardia,Bradicardia,43,250,20,5000,3325215896,bradicardia/raw/ecg_0073.csv,bradicardia/formateado/bradicardia.ecg_0073.csv
+bradicardia,Bradicardia,48,250,20,5000,4116573255,bradicardia/raw/ecg_0074.csv,bradicardia/formateado/bradicardia.ecg_0074.csv
+bradicardia,Bradicardia,55,250,20,5000,3815629300,bradicardia/raw/ecg_0075.csv,bradicardia/formateado/bradicardia.ecg_0075.csv
+bradicardia,Bradicardia,55,250,20,5000,2666897514,bradicardia/raw/ecg_0076.csv,bradicardia/formateado/bradicardia.ecg_0076.csv
+bradicardia,Bradicardia,44,250,20,5000,688372930,bradicardia/raw/ecg_0077.csv,bradicardia/formateado/bradicardia.ecg_0077.csv
+bradicardia,Bradicardia,41,250,20,5000,4067600674,bradicardia/raw/ecg_0078.csv,bradicardia/formateado/bradicardia.ecg_0078.csv
+bradicardia,Bradicardia,44,250,20,5000,101500507,bradicardia/raw/ecg_0079.csv,bradicardia/formateado/bradicardia.ecg_0079.csv
+bradicardia,Bradicardia,40,250,20,5000,1278652378,bradicardia/raw/ecg_0080.csv,bradicardia/formateado/bradicardia.ecg_0080.csv
+bradicardia,Bradicardia,55,250,20,5000,1209520741,bradicardia/raw/ecg_0081.csv,bradicardia/formateado/bradicardia.ecg_0081.csv
+bradicardia,Bradicardia,41,250,20,5000,2885470619,bradicardia/raw/ecg_0082.csv,bradicardia/formateado/bradicardia.ecg_0082.csv
+bradicardia,Bradicardia,40,250,20,5000,2093208429,bradicardia/raw/ecg_0083.csv,bradicardia/formateado/bradicardia.ecg_0083.csv
+bradicardia,Bradicardia,41,250,20,5000,398953278,bradicardia/raw/ecg_0084.csv,bradicardia/formateado/bradicardia.ecg_0084.csv
+bradicardia,Bradicardia,45,250,20,5000,55224206,bradicardia/raw/ecg_0085.csv,bradicardia/formateado/bradicardia.ecg_0085.csv
+bradicardia,Bradicardia,53,250,20,5000,2595516367,bradicardia/raw/ecg_0086.csv,bradicardia/formateado/bradicardia.ecg_0086.csv
+bradicardia,Bradicardia,54,250,20,5000,2110904837,bradicardia/raw/ecg_0087.csv,bradicardia/formateado/bradicardia.ecg_0087.csv
+bradicardia,Bradicardia,48,250,20,5000,2582916542,bradicardia/raw/ecg_0088.csv,bradicardia/formateado/bradicardia.ecg_0088.csv
+bradicardia,Bradicardia,47,250,20,5000,2422464048,bradicardia/raw/ecg_0089.csv,bradicardia/formateado/bradicardia.ecg_0089.csv
+bradicardia,Bradicardia,49,250,20,5000,3824492747,bradicardia/raw/ecg_0090.csv,bradicardia/formateado/bradicardia.ecg_0090.csv
+bradicardia,Bradicardia,44,250,20,5000,3944484468,bradicardia/raw/ecg_0091.csv,bradicardia/formateado/bradicardia.ecg_0091.csv
+bradicardia,Bradicardia,42,250,20,5000,808558349,bradicardia/raw/ecg_0092.csv,bradicardia/formateado/bradicardia.ecg_0092.csv
+bradicardia,Bradicardia,44,250,20,5000,4046378322,bradicardia/raw/ecg_0093.csv,bradicardia/formateado/bradicardia.ecg_0093.csv
+bradicardia,Bradicardia,43,250,20,5000,3383260097,bradicardia/raw/ecg_0094.csv,bradicardia/formateado/bradicardia.ecg_0094.csv
+bradicardia,Bradicardia,49,250,20,5000,2744596853,bradicardia/raw/ecg_0095.csv,bradicardia/formateado/bradicardia.ecg_0095.csv
+bradicardia,Bradicardia,41,250,20,5000,2832991641,bradicardia/raw/ecg_0096.csv,bradicardia/formateado/bradicardia.ecg_0096.csv
+bradicardia,Bradicardia,41,250,20,5000,2345310828,bradicardia/raw/ecg_0097.csv,bradicardia/formateado/bradicardia.ecg_0097.csv
+bradicardia,Bradicardia,52,250,20,5000,3939615872,bradicardia/raw/ecg_0098.csv,bradicardia/formateado/bradicardia.ecg_0098.csv
+bradicardia,Bradicardia,55,250,20,5000,1001857840,bradicardia/raw/ecg_0099.csv,bradicardia/formateado/bradicardia.ecg_0099.csv
+bradicardia,Bradicardia,52,250,20,5000,2574042585,bradicardia/raw/ecg_0100.csv,bradicardia/formateado/bradicardia.ecg_0100.csv
+bradicardia,Bradicardia,51,250,20,5000,3497147320,bradicardia/raw/ecg_0101.csv,bradicardia/formateado/bradicardia.ecg_0101.csv
+bradicardia,Bradicardia,47,250,20,5000,578796026,bradicardia/raw/ecg_0102.csv,bradicardia/formateado/bradicardia.ecg_0102.csv
+bradicardia,Bradicardia,52,250,20,5000,2643587907,bradicardia/raw/ecg_0103.csv,bradicardia/formateado/bradicardia.ecg_0103.csv
+bradicardia,Bradicardia,42,250,20,5000,1730156602,bradicardia/raw/ecg_0104.csv,bradicardia/formateado/bradicardia.ecg_0104.csv
+bradicardia,Bradicardia,42,250,20,5000,3290101033,bradicardia/raw/ecg_0105.csv,bradicardia/formateado/bradicardia.ecg_0105.csv
+bradicardia,Bradicardia,45,250,20,5000,290830963,bradicardia/raw/ecg_0106.csv,bradicardia/formateado/bradicardia.ecg_0106.csv
+bradicardia,Bradicardia,44,250,20,5000,2606247920,bradicardia/raw/ecg_0107.csv,bradicardia/formateado/bradicardia.ecg_0107.csv
+bradicardia,Bradicardia,49,250,20,5000,3681124942,bradicardia/raw/ecg_0108.csv,bradicardia/formateado/bradicardia.ecg_0108.csv
+bradicardia,Bradicardia,45,250,20,5000,2698733518,bradicardia/raw/ecg_0109.csv,bradicardia/formateado/bradicardia.ecg_0109.csv
+bradicardia,Bradicardia,55,250,20,5000,1380134891,bradicardia/raw/ecg_0110.csv,bradicardia/formateado/bradicardia.ecg_0110.csv
+bradicardia,Bradicardia,40,250,20,5000,2816622612,bradicardia/raw/ecg_0111.csv,bradicardia/formateado/bradicardia.ecg_0111.csv
+bradicardia,Bradicardia,49,250,20,5000,1452355399,bradicardia/raw/ecg_0112.csv,bradicardia/formateado/bradicardia.ecg_0112.csv
+bradicardia,Bradicardia,49,250,20,5000,2871584159,bradicardia/raw/ecg_0113.csv,bradicardia/formateado/bradicardia.ecg_0113.csv
+bradicardia,Bradicardia,53,250,20,5000,551235005,bradicardia/raw/ecg_0114.csv,bradicardia/formateado/bradicardia.ecg_0114.csv
+bradicardia,Bradicardia,47,250,20,5000,1202555383,bradicardia/raw/ecg_0115.csv,bradicardia/formateado/bradicardia.ecg_0115.csv
+bradicardia,Bradicardia,45,250,20,5000,140524363,bradicardia/raw/ecg_0116.csv,bradicardia/formateado/bradicardia.ecg_0116.csv
+bradicardia,Bradicardia,46,250,20,5000,360388080,bradicardia/raw/ecg_0117.csv,bradicardia/formateado/bradicardia.ecg_0117.csv
+bradicardia,Bradicardia,54,250,20,5000,2382717372,bradicardia/raw/ecg_0118.csv,bradicardia/formateado/bradicardia.ecg_0118.csv
+bradicardia,Bradicardia,46,250,20,5000,995136282,bradicardia/raw/ecg_0119.csv,bradicardia/formateado/bradicardia.ecg_0119.csv
+bradicardia,Bradicardia,55,250,20,5000,2216557834,bradicardia/raw/ecg_0120.csv,bradicardia/formateado/bradicardia.ecg_0120.csv
+bradicardia,Bradicardia,55,250,20,5000,2832829572,bradicardia/raw/ecg_0121.csv,bradicardia/formateado/bradicardia.ecg_0121.csv
+bradicardia,Bradicardia,55,250,20,5000,3784665820,bradicardia/raw/ecg_0122.csv,bradicardia/formateado/bradicardia.ecg_0122.csv
+bradicardia,Bradicardia,51,250,20,5000,1524975444,bradicardia/raw/ecg_0123.csv,bradicardia/formateado/bradicardia.ecg_0123.csv
+bradicardia,Bradicardia,52,250,20,5000,1368715737,bradicardia/raw/ecg_0124.csv,bradicardia/formateado/bradicardia.ecg_0124.csv
+bradicardia,Bradicardia,53,250,20,5000,1347188395,bradicardia/raw/ecg_0125.csv,bradicardia/formateado/bradicardia.ecg_0125.csv
+bradicardia,Bradicardia,41,250,20,5000,506160368,bradicardia/raw/ecg_0126.csv,bradicardia/formateado/bradicardia.ecg_0126.csv
+bradicardia,Bradicardia,47,250,20,5000,2848350861,bradicardia/raw/ecg_0127.csv,bradicardia/formateado/bradicardia.ecg_0127.csv
+bradicardia,Bradicardia,44,250,20,5000,3520389620,bradicardia/raw/ecg_0128.csv,bradicardia/formateado/bradicardia.ecg_0128.csv
+bradicardia,Bradicardia,44,250,20,5000,2031540407,bradicardia/raw/ecg_0129.csv,bradicardia/formateado/bradicardia.ecg_0129.csv
+bradicardia,Bradicardia,45,250,20,5000,2397869060,bradicardia/raw/ecg_0130.csv,bradicardia/formateado/bradicardia.ecg_0130.csv
+bradicardia,Bradicardia,43,250,20,5000,4116640741,bradicardia/raw/ecg_0131.csv,bradicardia/formateado/bradicardia.ecg_0131.csv
+bradicardia,Bradicardia,54,250,20,5000,3001817803,bradicardia/raw/ecg_0132.csv,bradicardia/formateado/bradicardia.ecg_0132.csv
+bradicardia,Bradicardia,48,250,20,5000,3199900471,bradicardia/raw/ecg_0133.csv,bradicardia/formateado/bradicardia.ecg_0133.csv
+bradicardia,Bradicardia,47,250,20,5000,3820366353,bradicardia/raw/ecg_0134.csv,bradicardia/formateado/bradicardia.ecg_0134.csv
+bradicardia,Bradicardia,41,250,20,5000,926813466,bradicardia/raw/ecg_0135.csv,bradicardia/formateado/bradicardia.ecg_0135.csv
+bradicardia,Bradicardia,47,250,20,5000,2792441956,bradicardia/raw/ecg_0136.csv,bradicardia/formateado/bradicardia.ecg_0136.csv
+bradicardia,Bradicardia,51,250,20,5000,3081185937,bradicardia/raw/ecg_0137.csv,bradicardia/formateado/bradicardia.ecg_0137.csv
+bradicardia,Bradicardia,55,250,20,5000,3617341412,bradicardia/raw/ecg_0138.csv,bradicardia/formateado/bradicardia.ecg_0138.csv
+bradicardia,Bradicardia,54,250,20,5000,1476547675,bradicardia/raw/ecg_0139.csv,bradicardia/formateado/bradicardia.ecg_0139.csv
+bradicardia,Bradicardia,51,250,20,5000,2958350733,bradicardia/raw/ecg_0140.csv,bradicardia/formateado/bradicardia.ecg_0140.csv
+bradicardia,Bradicardia,49,250,20,5000,2595880834,bradicardia/raw/ecg_0141.csv,bradicardia/formateado/bradicardia.ecg_0141.csv
+bradicardia,Bradicardia,48,250,20,5000,1758192251,bradicardia/raw/ecg_0142.csv,bradicardia/formateado/bradicardia.ecg_0142.csv
+bradicardia,Bradicardia,42,250,20,5000,436737000,bradicardia/raw/ecg_0143.csv,bradicardia/formateado/bradicardia.ecg_0143.csv
+bradicardia,Bradicardia,40,250,20,5000,1516331476,bradicardia/raw/ecg_0144.csv,bradicardia/formateado/bradicardia.ecg_0144.csv
+bradicardia,Bradicardia,45,250,20,5000,4138135482,bradicardia/raw/ecg_0145.csv,bradicardia/formateado/bradicardia.ecg_0145.csv
+bradicardia,Bradicardia,43,250,20,5000,929961357,bradicardia/raw/ecg_0146.csv,bradicardia/formateado/bradicardia.ecg_0146.csv
+bradicardia,Bradicardia,40,250,20,5000,488071465,bradicardia/raw/ecg_0147.csv,bradicardia/formateado/bradicardia.ecg_0147.csv
+bradicardia,Bradicardia,50,250,20,5000,1579171103,bradicardia/raw/ecg_0148.csv,bradicardia/formateado/bradicardia.ecg_0148.csv
+bradicardia,Bradicardia,49,250,20,5000,433709198,bradicardia/raw/ecg_0149.csv,bradicardia/formateado/bradicardia.ecg_0149.csv
+bradicardia,Bradicardia,52,250,20,5000,1147610672,bradicardia/raw/ecg_0150.csv,bradicardia/formateado/bradicardia.ecg_0150.csv
+bradicardia,Bradicardia,40,250,20,5000,3927559137,bradicardia/raw/ecg_0151.csv,bradicardia/formateado/bradicardia.ecg_0151.csv
+bradicardia,Bradicardia,45,250,20,5000,1369158613,bradicardia/raw/ecg_0152.csv,bradicardia/formateado/bradicardia.ecg_0152.csv
+bradicardia,Bradicardia,40,250,20,5000,2516376303,bradicardia/raw/ecg_0153.csv,bradicardia/formateado/bradicardia.ecg_0153.csv
+bradicardia,Bradicardia,44,250,20,5000,1025401019,bradicardia/raw/ecg_0154.csv,bradicardia/formateado/bradicardia.ecg_0154.csv
+bradicardia,Bradicardia,50,250,20,5000,2868951928,bradicardia/raw/ecg_0155.csv,bradicardia/formateado/bradicardia.ecg_0155.csv
+bradicardia,Bradicardia,42,250,20,5000,548280009,bradicardia/raw/ecg_0156.csv,bradicardia/formateado/bradicardia.ecg_0156.csv
+bradicardia,Bradicardia,43,250,20,5000,3392205470,bradicardia/raw/ecg_0157.csv,bradicardia/formateado/bradicardia.ecg_0157.csv
+bradicardia,Bradicardia,44,250,20,5000,1816539429,bradicardia/raw/ecg_0158.csv,bradicardia/formateado/bradicardia.ecg_0158.csv
+bradicardia,Bradicardia,42,250,20,5000,788815355,bradicardia/raw/ecg_0159.csv,bradicardia/formateado/bradicardia.ecg_0159.csv
+bradicardia,Bradicardia,50,250,20,5000,3256657085,bradicardia/raw/ecg_0160.csv,bradicardia/formateado/bradicardia.ecg_0160.csv
+bradicardia,Bradicardia,53,250,20,5000,2380625376,bradicardia/raw/ecg_0161.csv,bradicardia/formateado/bradicardia.ecg_0161.csv
+bradicardia,Bradicardia,44,250,20,5000,1881818489,bradicardia/raw/ecg_0162.csv,bradicardia/formateado/bradicardia.ecg_0162.csv
+bradicardia,Bradicardia,42,250,20,5000,1033480979,bradicardia/raw/ecg_0163.csv,bradicardia/formateado/bradicardia.ecg_0163.csv
+bradicardia,Bradicardia,47,250,20,5000,3355940956,bradicardia/raw/ecg_0164.csv,bradicardia/formateado/bradicardia.ecg_0164.csv
+bradicardia,Bradicardia,44,250,20,5000,1568887371,bradicardia/raw/ecg_0165.csv,bradicardia/formateado/bradicardia.ecg_0165.csv
+bradicardia,Bradicardia,40,250,20,5000,185073106,bradicardia/raw/ecg_0166.csv,bradicardia/formateado/bradicardia.ecg_0166.csv
+bradicardia,Bradicardia,48,250,20,5000,4146229441,bradicardia/raw/ecg_0167.csv,bradicardia/formateado/bradicardia.ecg_0167.csv
+bradicardia,Bradicardia,49,250,20,5000,130845353,bradicardia/raw/ecg_0168.csv,bradicardia/formateado/bradicardia.ecg_0168.csv
+bradicardia,Bradicardia,49,250,20,5000,517410747,bradicardia/raw/ecg_0169.csv,bradicardia/formateado/bradicardia.ecg_0169.csv
+bradicardia,Bradicardia,51,250,20,5000,2000649585,bradicardia/raw/ecg_0170.csv,bradicardia/formateado/bradicardia.ecg_0170.csv
+bradicardia,Bradicardia,45,250,20,5000,892730175,bradicardia/raw/ecg_0171.csv,bradicardia/formateado/bradicardia.ecg_0171.csv
+bradicardia,Bradicardia,42,250,20,5000,1439394025,bradicardia/raw/ecg_0172.csv,bradicardia/formateado/bradicardia.ecg_0172.csv
+bradicardia,Bradicardia,47,250,20,5000,2437674151,bradicardia/raw/ecg_0173.csv,bradicardia/formateado/bradicardia.ecg_0173.csv
+bradicardia,Bradicardia,51,250,20,5000,4113899858,bradicardia/raw/ecg_0174.csv,bradicardia/formateado/bradicardia.ecg_0174.csv
+bradicardia,Bradicardia,40,250,20,5000,4021430381,bradicardia/raw/ecg_0175.csv,bradicardia/formateado/bradicardia.ecg_0175.csv
+bradicardia,Bradicardia,48,250,20,5000,317380798,bradicardia/raw/ecg_0176.csv,bradicardia/formateado/bradicardia.ecg_0176.csv
+bradicardia,Bradicardia,53,250,20,5000,3664954245,bradicardia/raw/ecg_0177.csv,bradicardia/formateado/bradicardia.ecg_0177.csv
+bradicardia,Bradicardia,44,250,20,5000,720797109,bradicardia/raw/ecg_0178.csv,bradicardia/formateado/bradicardia.ecg_0178.csv
+bradicardia,Bradicardia,44,250,20,5000,3485077649,bradicardia/raw/ecg_0179.csv,bradicardia/formateado/bradicardia.ecg_0179.csv
+bradicardia,Bradicardia,54,250,20,5000,1272801607,bradicardia/raw/ecg_0180.csv,bradicardia/formateado/bradicardia.ecg_0180.csv
+bradicardia,Bradicardia,47,250,20,5000,3083075087,bradicardia/raw/ecg_0181.csv,bradicardia/formateado/bradicardia.ecg_0181.csv
+bradicardia,Bradicardia,42,250,20,5000,3087193307,bradicardia/raw/ecg_0182.csv,bradicardia/formateado/bradicardia.ecg_0182.csv
+bradicardia,Bradicardia,43,250,20,5000,3653089843,bradicardia/raw/ecg_0183.csv,bradicardia/formateado/bradicardia.ecg_0183.csv
+bradicardia,Bradicardia,42,250,20,5000,4207460982,bradicardia/raw/ecg_0184.csv,bradicardia/formateado/bradicardia.ecg_0184.csv
+bradicardia,Bradicardia,51,250,20,5000,1183181252,bradicardia/raw/ecg_0185.csv,bradicardia/formateado/bradicardia.ecg_0185.csv
+bradicardia,Bradicardia,52,250,20,5000,2698564280,bradicardia/raw/ecg_0186.csv,bradicardia/formateado/bradicardia.ecg_0186.csv
+bradicardia,Bradicardia,47,250,20,5000,3175100939,bradicardia/raw/ecg_0187.csv,bradicardia/formateado/bradicardia.ecg_0187.csv
+bradicardia,Bradicardia,51,250,20,5000,342005399,bradicardia/raw/ecg_0188.csv,bradicardia/formateado/bradicardia.ecg_0188.csv
+bradicardia,Bradicardia,43,250,20,5000,2847397263,bradicardia/raw/ecg_0189.csv,bradicardia/formateado/bradicardia.ecg_0189.csv
+bradicardia,Bradicardia,46,250,20,5000,1380898622,bradicardia/raw/ecg_0190.csv,bradicardia/formateado/bradicardia.ecg_0190.csv
+bradicardia,Bradicardia,48,250,20,5000,693504256,bradicardia/raw/ecg_0191.csv,bradicardia/formateado/bradicardia.ecg_0191.csv
+bradicardia,Bradicardia,55,250,20,5000,2359962369,bradicardia/raw/ecg_0192.csv,bradicardia/formateado/bradicardia.ecg_0192.csv
+bradicardia,Bradicardia,40,250,20,5000,1983774943,bradicardia/raw/ecg_0193.csv,bradicardia/formateado/bradicardia.ecg_0193.csv
+bradicardia,Bradicardia,51,250,20,5000,2478539008,bradicardia/raw/ecg_0194.csv,bradicardia/formateado/bradicardia.ecg_0194.csv
+bradicardia,Bradicardia,48,250,20,5000,2757015056,bradicardia/raw/ecg_0195.csv,bradicardia/formateado/bradicardia.ecg_0195.csv
+bradicardia,Bradicardia,40,250,20,5000,2141766450,bradicardia/raw/ecg_0196.csv,bradicardia/formateado/bradicardia.ecg_0196.csv
+bradicardia,Bradicardia,46,250,20,5000,3887592685,bradicardia/raw/ecg_0197.csv,bradicardia/formateado/bradicardia.ecg_0197.csv
+bradicardia,Bradicardia,49,250,20,5000,764135662,bradicardia/raw/ecg_0198.csv,bradicardia/formateado/bradicardia.ecg_0198.csv
+bradicardia,Bradicardia,53,250,20,5000,1240350686,bradicardia/raw/ecg_0199.csv,bradicardia/formateado/bradicardia.ecg_0199.csv
+bradicardia,Bradicardia,55,250,20,5000,1529960297,bradicardia/raw/ecg_0200.csv,bradicardia/formateado/bradicardia.ecg_0200.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,94,250,20,5000,3325945449,ritmo_sinusal_normal/raw/ecg_0001.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0001.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,89,250,20,5000,2800740084,ritmo_sinusal_normal/raw/ecg_0002.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0002.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,60,250,20,5000,886578659,ritmo_sinusal_normal/raw/ecg_0003.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0003.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,95,250,20,5000,3197353572,ritmo_sinusal_normal/raw/ecg_0004.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0004.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,78,250,20,5000,3313726344,ritmo_sinusal_normal/raw/ecg_0005.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0005.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,86,250,20,5000,3308161903,ritmo_sinusal_normal/raw/ecg_0006.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0006.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,81,250,20,5000,336609062,ritmo_sinusal_normal/raw/ecg_0007.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0007.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,76,250,20,5000,911130705,ritmo_sinusal_normal/raw/ecg_0008.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0008.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,95,250,20,5000,3845649407,ritmo_sinusal_normal/raw/ecg_0009.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0009.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,68,250,20,5000,3777131935,ritmo_sinusal_normal/raw/ecg_0010.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0010.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,73,250,20,5000,882927840,ritmo_sinusal_normal/raw/ecg_0011.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0011.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,71,250,20,5000,2368140419,ritmo_sinusal_normal/raw/ecg_0012.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0012.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,69,250,20,5000,1128216003,ritmo_sinusal_normal/raw/ecg_0013.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0013.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,88,250,20,5000,1787929478,ritmo_sinusal_normal/raw/ecg_0014.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0014.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,88,250,20,5000,89957419,ritmo_sinusal_normal/raw/ecg_0015.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0015.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,64,250,20,5000,1210151001,ritmo_sinusal_normal/raw/ecg_0016.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0016.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,74,250,20,5000,1162565618,ritmo_sinusal_normal/raw/ecg_0017.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0017.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,76,250,20,5000,3947635398,ritmo_sinusal_normal/raw/ecg_0018.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0018.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,78,250,20,5000,2525312850,ritmo_sinusal_normal/raw/ecg_0019.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0019.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,92,250,20,5000,762427532,ritmo_sinusal_normal/raw/ecg_0020.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0020.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,65,250,20,5000,1836375726,ritmo_sinusal_normal/raw/ecg_0021.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0021.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,85,250,20,5000,2117144694,ritmo_sinusal_normal/raw/ecg_0022.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0022.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,64,250,20,5000,2737440859,ritmo_sinusal_normal/raw/ecg_0023.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0023.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,97,250,20,5000,2286846100,ritmo_sinusal_normal/raw/ecg_0024.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0024.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,96,250,20,5000,1808149908,ritmo_sinusal_normal/raw/ecg_0025.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0025.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,76,250,20,5000,1334845820,ritmo_sinusal_normal/raw/ecg_0026.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0026.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,81,250,20,5000,2469604084,ritmo_sinusal_normal/raw/ecg_0027.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0027.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,64,250,20,5000,4191166584,ritmo_sinusal_normal/raw/ecg_0028.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0028.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,66,250,20,5000,2375060926,ritmo_sinusal_normal/raw/ecg_0029.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0029.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,72,250,20,5000,3809688160,ritmo_sinusal_normal/raw/ecg_0030.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0030.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,86,250,20,5000,65594608,ritmo_sinusal_normal/raw/ecg_0031.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0031.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,61,250,20,5000,872296702,ritmo_sinusal_normal/raw/ecg_0032.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0032.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,93,250,20,5000,3714150188,ritmo_sinusal_normal/raw/ecg_0033.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0033.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,82,250,20,5000,2445867467,ritmo_sinusal_normal/raw/ecg_0034.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0034.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,86,250,20,5000,2094046001,ritmo_sinusal_normal/raw/ecg_0035.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0035.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,80,250,20,5000,1584002357,ritmo_sinusal_normal/raw/ecg_0036.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0036.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,80,250,20,5000,1268156579,ritmo_sinusal_normal/raw/ecg_0037.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0037.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,90,250,20,5000,2915551774,ritmo_sinusal_normal/raw/ecg_0038.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0038.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,89,250,20,5000,1570820101,ritmo_sinusal_normal/raw/ecg_0039.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0039.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,76,250,20,5000,1869318833,ritmo_sinusal_normal/raw/ecg_0040.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0040.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,84,250,20,5000,3336537989,ritmo_sinusal_normal/raw/ecg_0041.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0041.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,60,250,20,5000,4063824922,ritmo_sinusal_normal/raw/ecg_0042.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0042.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,95,250,20,5000,4267723687,ritmo_sinusal_normal/raw/ecg_0043.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0043.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,71,250,20,5000,2082695083,ritmo_sinusal_normal/raw/ecg_0044.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0044.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,82,250,20,5000,593431571,ritmo_sinusal_normal/raw/ecg_0045.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0045.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,74,250,20,5000,107046056,ritmo_sinusal_normal/raw/ecg_0046.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0046.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,64,250,20,5000,2124534372,ritmo_sinusal_normal/raw/ecg_0047.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0047.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,72,250,20,5000,327942190,ritmo_sinusal_normal/raw/ecg_0048.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0048.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,94,250,20,5000,505573827,ritmo_sinusal_normal/raw/ecg_0049.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0049.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,69,250,20,5000,1008626165,ritmo_sinusal_normal/raw/ecg_0050.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0050.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,81,250,20,5000,4260577912,ritmo_sinusal_normal/raw/ecg_0051.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0051.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,61,250,20,5000,696766348,ritmo_sinusal_normal/raw/ecg_0052.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0052.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,73,250,20,5000,473013848,ritmo_sinusal_normal/raw/ecg_0053.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0053.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,60,250,20,5000,3933862656,ritmo_sinusal_normal/raw/ecg_0054.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0054.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,69,250,20,5000,2671769192,ritmo_sinusal_normal/raw/ecg_0055.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0055.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,96,250,20,5000,3177849317,ritmo_sinusal_normal/raw/ecg_0056.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0056.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,61,250,20,5000,1523568589,ritmo_sinusal_normal/raw/ecg_0057.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0057.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,62,250,20,5000,4010780085,ritmo_sinusal_normal/raw/ecg_0058.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0058.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,79,250,20,5000,4192320305,ritmo_sinusal_normal/raw/ecg_0059.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0059.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,76,250,20,5000,2398548974,ritmo_sinusal_normal/raw/ecg_0060.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0060.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,62,250,20,5000,4238446713,ritmo_sinusal_normal/raw/ecg_0061.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0061.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,95,250,20,5000,2172370202,ritmo_sinusal_normal/raw/ecg_0062.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0062.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,69,250,20,5000,1888670137,ritmo_sinusal_normal/raw/ecg_0063.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0063.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,77,250,20,5000,3373413348,ritmo_sinusal_normal/raw/ecg_0064.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0064.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,72,250,20,5000,2767022669,ritmo_sinusal_normal/raw/ecg_0065.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0065.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,93,250,20,5000,861271322,ritmo_sinusal_normal/raw/ecg_0066.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0066.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,91,250,20,5000,2211647391,ritmo_sinusal_normal/raw/ecg_0067.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0067.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,68,250,20,5000,70692839,ritmo_sinusal_normal/raw/ecg_0068.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0068.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,96,250,20,5000,3760930423,ritmo_sinusal_normal/raw/ecg_0069.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0069.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,62,250,20,5000,2329787340,ritmo_sinusal_normal/raw/ecg_0070.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0070.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,63,250,20,5000,198371776,ritmo_sinusal_normal/raw/ecg_0071.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0071.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,62,250,20,5000,4027643918,ritmo_sinusal_normal/raw/ecg_0072.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0072.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,80,250,20,5000,4292546942,ritmo_sinusal_normal/raw/ecg_0073.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0073.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,91,250,20,5000,3166702687,ritmo_sinusal_normal/raw/ecg_0074.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0074.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,64,250,20,5000,1852520127,ritmo_sinusal_normal/raw/ecg_0075.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0075.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,83,250,20,5000,2540126473,ritmo_sinusal_normal/raw/ecg_0076.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0076.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,65,250,20,5000,43945684,ritmo_sinusal_normal/raw/ecg_0077.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0077.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,85,250,20,5000,465786294,ritmo_sinusal_normal/raw/ecg_0078.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0078.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,98,250,20,5000,1421631760,ritmo_sinusal_normal/raw/ecg_0079.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0079.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,98,250,20,5000,1766385565,ritmo_sinusal_normal/raw/ecg_0080.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0080.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,77,250,20,5000,3246775511,ritmo_sinusal_normal/raw/ecg_0081.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0081.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,96,250,20,5000,733278805,ritmo_sinusal_normal/raw/ecg_0082.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0082.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,78,250,20,5000,498666043,ritmo_sinusal_normal/raw/ecg_0083.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0083.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,88,250,20,5000,2995584782,ritmo_sinusal_normal/raw/ecg_0084.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0084.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,65,250,20,5000,3814068912,ritmo_sinusal_normal/raw/ecg_0085.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0085.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,100,250,20,5000,3778142078,ritmo_sinusal_normal/raw/ecg_0086.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0086.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,92,250,20,5000,3186505818,ritmo_sinusal_normal/raw/ecg_0087.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0087.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,71,250,20,5000,4224389386,ritmo_sinusal_normal/raw/ecg_0088.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0088.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,72,250,20,5000,2242368522,ritmo_sinusal_normal/raw/ecg_0089.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0089.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,88,250,20,5000,3326318050,ritmo_sinusal_normal/raw/ecg_0090.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0090.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,73,250,20,5000,1791763436,ritmo_sinusal_normal/raw/ecg_0091.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0091.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,79,250,20,5000,1517221508,ritmo_sinusal_normal/raw/ecg_0092.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0092.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,73,250,20,5000,3911951097,ritmo_sinusal_normal/raw/ecg_0093.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0093.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,69,250,20,5000,1849872494,ritmo_sinusal_normal/raw/ecg_0094.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0094.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,66,250,20,5000,3206068690,ritmo_sinusal_normal/raw/ecg_0095.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0095.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,93,250,20,5000,2134695878,ritmo_sinusal_normal/raw/ecg_0096.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0096.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,62,250,20,5000,481950838,ritmo_sinusal_normal/raw/ecg_0097.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0097.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,70,250,20,5000,544928604,ritmo_sinusal_normal/raw/ecg_0098.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0098.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,69,250,20,5000,2190959824,ritmo_sinusal_normal/raw/ecg_0099.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0099.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,83,250,20,5000,3039453426,ritmo_sinusal_normal/raw/ecg_0100.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0100.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,98,250,20,5000,3188945405,ritmo_sinusal_normal/raw/ecg_0101.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0101.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,79,250,20,5000,1441807994,ritmo_sinusal_normal/raw/ecg_0102.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0102.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,95,250,20,5000,39559473,ritmo_sinusal_normal/raw/ecg_0103.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0103.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,89,250,20,5000,2290748406,ritmo_sinusal_normal/raw/ecg_0104.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0104.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,80,250,20,5000,814184029,ritmo_sinusal_normal/raw/ecg_0105.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0105.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,71,250,20,5000,1374904790,ritmo_sinusal_normal/raw/ecg_0106.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0106.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,61,250,20,5000,2432880518,ritmo_sinusal_normal/raw/ecg_0107.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0107.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,83,250,20,5000,1682909800,ritmo_sinusal_normal/raw/ecg_0108.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0108.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,96,250,20,5000,1971397015,ritmo_sinusal_normal/raw/ecg_0109.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0109.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,62,250,20,5000,216719533,ritmo_sinusal_normal/raw/ecg_0110.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0110.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,75,250,20,5000,786045220,ritmo_sinusal_normal/raw/ecg_0111.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0111.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,95,250,20,5000,3615913997,ritmo_sinusal_normal/raw/ecg_0112.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0112.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,99,250,20,5000,2198513988,ritmo_sinusal_normal/raw/ecg_0113.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0113.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,80,250,20,5000,3801551599,ritmo_sinusal_normal/raw/ecg_0114.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0114.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,86,250,20,5000,3682079760,ritmo_sinusal_normal/raw/ecg_0115.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0115.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,67,250,20,5000,829658727,ritmo_sinusal_normal/raw/ecg_0116.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0116.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,62,250,20,5000,1716255355,ritmo_sinusal_normal/raw/ecg_0117.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0117.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,92,250,20,5000,2258200602,ritmo_sinusal_normal/raw/ecg_0118.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0118.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,82,250,20,5000,418824377,ritmo_sinusal_normal/raw/ecg_0119.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0119.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,65,250,20,5000,366601922,ritmo_sinusal_normal/raw/ecg_0120.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0120.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,75,250,20,5000,3614157247,ritmo_sinusal_normal/raw/ecg_0121.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0121.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,90,250,20,5000,3550707960,ritmo_sinusal_normal/raw/ecg_0122.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0122.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,72,250,20,5000,1646215278,ritmo_sinusal_normal/raw/ecg_0123.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0123.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,99,250,20,5000,3034758100,ritmo_sinusal_normal/raw/ecg_0124.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0124.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,88,250,20,5000,2224505767,ritmo_sinusal_normal/raw/ecg_0125.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0125.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,64,250,20,5000,3211147415,ritmo_sinusal_normal/raw/ecg_0126.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0126.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,75,250,20,5000,1353709710,ritmo_sinusal_normal/raw/ecg_0127.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0127.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,89,250,20,5000,2035970070,ritmo_sinusal_normal/raw/ecg_0128.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0128.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,66,250,20,5000,3835218236,ritmo_sinusal_normal/raw/ecg_0129.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0129.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,76,250,20,5000,3507459574,ritmo_sinusal_normal/raw/ecg_0130.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0130.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,76,250,20,5000,1331284190,ritmo_sinusal_normal/raw/ecg_0131.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0131.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,92,250,20,5000,3787177953,ritmo_sinusal_normal/raw/ecg_0132.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0132.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,72,250,20,5000,1712484791,ritmo_sinusal_normal/raw/ecg_0133.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0133.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,82,250,20,5000,2930799545,ritmo_sinusal_normal/raw/ecg_0134.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0134.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,80,250,20,5000,3055914545,ritmo_sinusal_normal/raw/ecg_0135.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0135.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,93,250,20,5000,1725223803,ritmo_sinusal_normal/raw/ecg_0136.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0136.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,94,250,20,5000,3552340850,ritmo_sinusal_normal/raw/ecg_0137.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0137.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,100,250,20,5000,1998670404,ritmo_sinusal_normal/raw/ecg_0138.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0138.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,94,250,20,5000,4126126555,ritmo_sinusal_normal/raw/ecg_0139.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0139.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,98,250,20,5000,4023091289,ritmo_sinusal_normal/raw/ecg_0140.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0140.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,76,250,20,5000,3866610523,ritmo_sinusal_normal/raw/ecg_0141.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0141.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,77,250,20,5000,3901348407,ritmo_sinusal_normal/raw/ecg_0142.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0142.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,93,250,20,5000,631560104,ritmo_sinusal_normal/raw/ecg_0143.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0143.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,65,250,20,5000,2784573760,ritmo_sinusal_normal/raw/ecg_0144.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0144.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,70,250,20,5000,3183062711,ritmo_sinusal_normal/raw/ecg_0145.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0145.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,92,250,20,5000,2271003329,ritmo_sinusal_normal/raw/ecg_0146.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0146.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,91,250,20,5000,2272986824,ritmo_sinusal_normal/raw/ecg_0147.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0147.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,83,250,20,5000,865139163,ritmo_sinusal_normal/raw/ecg_0148.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0148.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,84,250,20,5000,690572777,ritmo_sinusal_normal/raw/ecg_0149.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0149.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,85,250,20,5000,3363536331,ritmo_sinusal_normal/raw/ecg_0150.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0150.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,91,250,20,5000,642551057,ritmo_sinusal_normal/raw/ecg_0151.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0151.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,92,250,20,5000,3127582175,ritmo_sinusal_normal/raw/ecg_0152.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0152.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,66,250,20,5000,331006634,ritmo_sinusal_normal/raw/ecg_0153.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0153.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,86,250,20,5000,1770609332,ritmo_sinusal_normal/raw/ecg_0154.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0154.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,80,250,20,5000,103127882,ritmo_sinusal_normal/raw/ecg_0155.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0155.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,69,250,20,5000,2836279026,ritmo_sinusal_normal/raw/ecg_0156.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0156.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,85,250,20,5000,1258064106,ritmo_sinusal_normal/raw/ecg_0157.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0157.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,74,250,20,5000,2008756565,ritmo_sinusal_normal/raw/ecg_0158.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0158.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,73,250,20,5000,1230287883,ritmo_sinusal_normal/raw/ecg_0159.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0159.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,72,250,20,5000,2215234319,ritmo_sinusal_normal/raw/ecg_0160.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0160.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,82,250,20,5000,2824571325,ritmo_sinusal_normal/raw/ecg_0161.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0161.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,70,250,20,5000,716887416,ritmo_sinusal_normal/raw/ecg_0162.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0162.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,72,250,20,5000,3337400130,ritmo_sinusal_normal/raw/ecg_0163.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0163.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,94,250,20,5000,3360877905,ritmo_sinusal_normal/raw/ecg_0164.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0164.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,76,250,20,5000,4046570574,ritmo_sinusal_normal/raw/ecg_0165.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0165.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,83,250,20,5000,1635073604,ritmo_sinusal_normal/raw/ecg_0166.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0166.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,83,250,20,5000,3750070214,ritmo_sinusal_normal/raw/ecg_0167.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0167.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,77,250,20,5000,402376127,ritmo_sinusal_normal/raw/ecg_0168.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0168.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,72,250,20,5000,4268795093,ritmo_sinusal_normal/raw/ecg_0169.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0169.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,79,250,20,5000,911424163,ritmo_sinusal_normal/raw/ecg_0170.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0170.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,96,250,20,5000,1605669847,ritmo_sinusal_normal/raw/ecg_0171.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0171.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,73,250,20,5000,401594279,ritmo_sinusal_normal/raw/ecg_0172.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0172.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,98,250,20,5000,3586906434,ritmo_sinusal_normal/raw/ecg_0173.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0173.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,75,250,20,5000,2087066249,ritmo_sinusal_normal/raw/ecg_0174.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0174.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,70,250,20,5000,4133482725,ritmo_sinusal_normal/raw/ecg_0175.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0175.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,97,250,20,5000,621119721,ritmo_sinusal_normal/raw/ecg_0176.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0176.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,69,250,20,5000,3830345310,ritmo_sinusal_normal/raw/ecg_0177.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0177.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,68,250,20,5000,1544238821,ritmo_sinusal_normal/raw/ecg_0178.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0178.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,93,250,20,5000,1014860757,ritmo_sinusal_normal/raw/ecg_0179.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0179.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,94,250,20,5000,2822322459,ritmo_sinusal_normal/raw/ecg_0180.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0180.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,67,250,20,5000,129658487,ritmo_sinusal_normal/raw/ecg_0181.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0181.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,67,250,20,5000,2256875282,ritmo_sinusal_normal/raw/ecg_0182.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0182.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,99,250,20,5000,2034118792,ritmo_sinusal_normal/raw/ecg_0183.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0183.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,65,250,20,5000,208327957,ritmo_sinusal_normal/raw/ecg_0184.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0184.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,67,250,20,5000,1864798491,ritmo_sinusal_normal/raw/ecg_0185.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0185.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,78,250,20,5000,1309617916,ritmo_sinusal_normal/raw/ecg_0186.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0186.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,85,250,20,5000,1067935882,ritmo_sinusal_normal/raw/ecg_0187.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0187.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,70,250,20,5000,3995581226,ritmo_sinusal_normal/raw/ecg_0188.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0188.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,81,250,20,5000,2569665381,ritmo_sinusal_normal/raw/ecg_0189.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0189.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,83,250,20,5000,662101432,ritmo_sinusal_normal/raw/ecg_0190.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0190.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,83,250,20,5000,3251855568,ritmo_sinusal_normal/raw/ecg_0191.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0191.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,61,250,20,5000,1587276847,ritmo_sinusal_normal/raw/ecg_0192.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0192.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,71,250,20,5000,2572044015,ritmo_sinusal_normal/raw/ecg_0193.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0193.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,97,250,20,5000,1631808115,ritmo_sinusal_normal/raw/ecg_0194.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0194.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,62,250,20,5000,2742533555,ritmo_sinusal_normal/raw/ecg_0195.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0195.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,72,250,20,5000,2928897273,ritmo_sinusal_normal/raw/ecg_0196.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0196.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,65,250,20,5000,1217770400,ritmo_sinusal_normal/raw/ecg_0197.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0197.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,75,250,20,5000,3569365588,ritmo_sinusal_normal/raw/ecg_0198.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0198.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,82,250,20,5000,2654851353,ritmo_sinusal_normal/raw/ecg_0199.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0199.csv
+ritmo_sinusal_normal,Ritmo sinusal normal,88,250,20,5000,2599608817,ritmo_sinusal_normal/raw/ecg_0200.csv,ritmo_sinusal_normal/formateado/ritmo_sinusal_normal.ecg_0200.csv
+taquicardia,Taquicardia,145,250,20,5000,936328338,taquicardia/raw/ecg_0001.csv,taquicardia/formateado/taquicardia.ecg_0001.csv
+taquicardia,Taquicardia,134,250,20,5000,1090760827,taquicardia/raw/ecg_0002.csv,taquicardia/formateado/taquicardia.ecg_0002.csv
+taquicardia,Taquicardia,130,250,20,5000,1698131508,taquicardia/raw/ecg_0003.csv,taquicardia/formateado/taquicardia.ecg_0003.csv
+taquicardia,Taquicardia,147,250,20,5000,145482129,taquicardia/raw/ecg_0004.csv,taquicardia/formateado/taquicardia.ecg_0004.csv
+taquicardia,Taquicardia,130,250,20,5000,235068469,taquicardia/raw/ecg_0005.csv,taquicardia/formateado/taquicardia.ecg_0005.csv
+taquicardia,Taquicardia,121,250,20,5000,2846197811,taquicardia/raw/ecg_0006.csv,taquicardia/formateado/taquicardia.ecg_0006.csv
+taquicardia,Taquicardia,115,250,20,5000,1359265065,taquicardia/raw/ecg_0007.csv,taquicardia/formateado/taquicardia.ecg_0007.csv
+taquicardia,Taquicardia,136,250,20,5000,3093426468,taquicardia/raw/ecg_0008.csv,taquicardia/formateado/taquicardia.ecg_0008.csv
+taquicardia,Taquicardia,134,250,20,5000,321377122,taquicardia/raw/ecg_0009.csv,taquicardia/formateado/taquicardia.ecg_0009.csv
+taquicardia,Taquicardia,120,250,20,5000,3178839512,taquicardia/raw/ecg_0010.csv,taquicardia/formateado/taquicardia.ecg_0010.csv
+taquicardia,Taquicardia,144,250,20,5000,919891069,taquicardia/raw/ecg_0011.csv,taquicardia/formateado/taquicardia.ecg_0011.csv
+taquicardia,Taquicardia,123,250,20,5000,3734695492,taquicardia/raw/ecg_0012.csv,taquicardia/formateado/taquicardia.ecg_0012.csv
+taquicardia,Taquicardia,110,250,20,5000,3893526333,taquicardia/raw/ecg_0013.csv,taquicardia/formateado/taquicardia.ecg_0013.csv
+taquicardia,Taquicardia,122,250,20,5000,2960578104,taquicardia/raw/ecg_0014.csv,taquicardia/formateado/taquicardia.ecg_0014.csv
+taquicardia,Taquicardia,125,250,20,5000,1693448357,taquicardia/raw/ecg_0015.csv,taquicardia/formateado/taquicardia.ecg_0015.csv
+taquicardia,Taquicardia,122,250,20,5000,110156878,taquicardia/raw/ecg_0016.csv,taquicardia/formateado/taquicardia.ecg_0016.csv
+taquicardia,Taquicardia,146,250,20,5000,3268956184,taquicardia/raw/ecg_0017.csv,taquicardia/formateado/taquicardia.ecg_0017.csv
+taquicardia,Taquicardia,147,250,20,5000,2417283059,taquicardia/raw/ecg_0018.csv,taquicardia/formateado/taquicardia.ecg_0018.csv
+taquicardia,Taquicardia,149,250,20,5000,353438223,taquicardia/raw/ecg_0019.csv,taquicardia/formateado/taquicardia.ecg_0019.csv
+taquicardia,Taquicardia,121,250,20,5000,2451297551,taquicardia/raw/ecg_0020.csv,taquicardia/formateado/taquicardia.ecg_0020.csv
+taquicardia,Taquicardia,127,250,20,5000,26438397,taquicardia/raw/ecg_0021.csv,taquicardia/formateado/taquicardia.ecg_0021.csv
+taquicardia,Taquicardia,109,250,20,5000,1938647768,taquicardia/raw/ecg_0022.csv,taquicardia/formateado/taquicardia.ecg_0022.csv
+taquicardia,Taquicardia,143,250,20,5000,2633917390,taquicardia/raw/ecg_0023.csv,taquicardia/formateado/taquicardia.ecg_0023.csv
+taquicardia,Taquicardia,118,250,20,5000,3447392544,taquicardia/raw/ecg_0024.csv,taquicardia/formateado/taquicardia.ecg_0024.csv
+taquicardia,Taquicardia,145,250,20,5000,1248142868,taquicardia/raw/ecg_0025.csv,taquicardia/formateado/taquicardia.ecg_0025.csv
+taquicardia,Taquicardia,147,250,20,5000,996627901,taquicardia/raw/ecg_0026.csv,taquicardia/formateado/taquicardia.ecg_0026.csv
+taquicardia,Taquicardia,131,250,20,5000,1422036529,taquicardia/raw/ecg_0027.csv,taquicardia/formateado/taquicardia.ecg_0027.csv
+taquicardia,Taquicardia,138,250,20,5000,254239070,taquicardia/raw/ecg_0028.csv,taquicardia/formateado/taquicardia.ecg_0028.csv
+taquicardia,Taquicardia,107,250,20,5000,4000759745,taquicardia/raw/ecg_0029.csv,taquicardia/formateado/taquicardia.ecg_0029.csv
+taquicardia,Taquicardia,113,250,20,5000,3782298871,taquicardia/raw/ecg_0030.csv,taquicardia/formateado/taquicardia.ecg_0030.csv
+taquicardia,Taquicardia,135,250,20,5000,2586155157,taquicardia/raw/ecg_0031.csv,taquicardia/formateado/taquicardia.ecg_0031.csv
+taquicardia,Taquicardia,138,250,20,5000,320350546,taquicardia/raw/ecg_0032.csv,taquicardia/formateado/taquicardia.ecg_0032.csv
+taquicardia,Taquicardia,107,250,20,5000,359178027,taquicardia/raw/ecg_0033.csv,taquicardia/formateado/taquicardia.ecg_0033.csv
+taquicardia,Taquicardia,105,250,20,5000,4003263461,taquicardia/raw/ecg_0034.csv,taquicardia/formateado/taquicardia.ecg_0034.csv
+taquicardia,Taquicardia,125,250,20,5000,536869015,taquicardia/raw/ecg_0035.csv,taquicardia/formateado/taquicardia.ecg_0035.csv
+taquicardia,Taquicardia,119,250,20,5000,625642481,taquicardia/raw/ecg_0036.csv,taquicardia/formateado/taquicardia.ecg_0036.csv
+taquicardia,Taquicardia,146,250,20,5000,3373568826,taquicardia/raw/ecg_0037.csv,taquicardia/formateado/taquicardia.ecg_0037.csv
+taquicardia,Taquicardia,105,250,20,5000,1295067510,taquicardia/raw/ecg_0038.csv,taquicardia/formateado/taquicardia.ecg_0038.csv
+taquicardia,Taquicardia,135,250,20,5000,1767611754,taquicardia/raw/ecg_0039.csv,taquicardia/formateado/taquicardia.ecg_0039.csv
+taquicardia,Taquicardia,115,250,20,5000,1761037225,taquicardia/raw/ecg_0040.csv,taquicardia/formateado/taquicardia.ecg_0040.csv
+taquicardia,Taquicardia,124,250,20,5000,3006760814,taquicardia/raw/ecg_0041.csv,taquicardia/formateado/taquicardia.ecg_0041.csv
+taquicardia,Taquicardia,130,250,20,5000,2028651602,taquicardia/raw/ecg_0042.csv,taquicardia/formateado/taquicardia.ecg_0042.csv
+taquicardia,Taquicardia,133,250,20,5000,3488393976,taquicardia/raw/ecg_0043.csv,taquicardia/formateado/taquicardia.ecg_0043.csv
+taquicardia,Taquicardia,109,250,20,5000,2130042404,taquicardia/raw/ecg_0044.csv,taquicardia/formateado/taquicardia.ecg_0044.csv
+taquicardia,Taquicardia,139,250,20,5000,1247514551,taquicardia/raw/ecg_0045.csv,taquicardia/formateado/taquicardia.ecg_0045.csv
+taquicardia,Taquicardia,144,250,20,5000,835701367,taquicardia/raw/ecg_0046.csv,taquicardia/formateado/taquicardia.ecg_0046.csv
+taquicardia,Taquicardia,106,250,20,5000,3242757224,taquicardia/raw/ecg_0047.csv,taquicardia/formateado/taquicardia.ecg_0047.csv
+taquicardia,Taquicardia,140,250,20,5000,942779643,taquicardia/raw/ecg_0048.csv,taquicardia/formateado/taquicardia.ecg_0048.csv
+taquicardia,Taquicardia,150,250,20,5000,2615239132,taquicardia/raw/ecg_0049.csv,taquicardia/formateado/taquicardia.ecg_0049.csv
+taquicardia,Taquicardia,106,250,20,5000,2583011280,taquicardia/raw/ecg_0050.csv,taquicardia/formateado/taquicardia.ecg_0050.csv
+taquicardia,Taquicardia,121,250,20,5000,4137116895,taquicardia/raw/ecg_0051.csv,taquicardia/formateado/taquicardia.ecg_0051.csv
+taquicardia,Taquicardia,117,250,20,5000,384918105,taquicardia/raw/ecg_0052.csv,taquicardia/formateado/taquicardia.ecg_0052.csv
+taquicardia,Taquicardia,145,250,20,5000,891293427,taquicardia/raw/ecg_0053.csv,taquicardia/formateado/taquicardia.ecg_0053.csv
+taquicardia,Taquicardia,120,250,20,5000,2841348744,taquicardia/raw/ecg_0054.csv,taquicardia/formateado/taquicardia.ecg_0054.csv
+taquicardia,Taquicardia,120,250,20,5000,1421202465,taquicardia/raw/ecg_0055.csv,taquicardia/formateado/taquicardia.ecg_0055.csv
+taquicardia,Taquicardia,127,250,20,5000,552259228,taquicardia/raw/ecg_0056.csv,taquicardia/formateado/taquicardia.ecg_0056.csv
+taquicardia,Taquicardia,129,250,20,5000,3845578866,taquicardia/raw/ecg_0057.csv,taquicardia/formateado/taquicardia.ecg_0057.csv
+taquicardia,Taquicardia,150,250,20,5000,3141667188,taquicardia/raw/ecg_0058.csv,taquicardia/formateado/taquicardia.ecg_0058.csv
+taquicardia,Taquicardia,132,250,20,5000,955854214,taquicardia/raw/ecg_0059.csv,taquicardia/formateado/taquicardia.ecg_0059.csv
+taquicardia,Taquicardia,145,250,20,5000,408925141,taquicardia/raw/ecg_0060.csv,taquicardia/formateado/taquicardia.ecg_0060.csv
+taquicardia,Taquicardia,137,250,20,5000,3618133219,taquicardia/raw/ecg_0061.csv,taquicardia/formateado/taquicardia.ecg_0061.csv
+taquicardia,Taquicardia,126,250,20,5000,2447967936,taquicardia/raw/ecg_0062.csv,taquicardia/formateado/taquicardia.ecg_0062.csv
+taquicardia,Taquicardia,142,250,20,5000,3992509792,taquicardia/raw/ecg_0063.csv,taquicardia/formateado/taquicardia.ecg_0063.csv
+taquicardia,Taquicardia,106,250,20,5000,2221277787,taquicardia/raw/ecg_0064.csv,taquicardia/formateado/taquicardia.ecg_0064.csv
+taquicardia,Taquicardia,123,250,20,5000,991615013,taquicardia/raw/ecg_0065.csv,taquicardia/formateado/taquicardia.ecg_0065.csv
+taquicardia,Taquicardia,144,250,20,5000,573644876,taquicardia/raw/ecg_0066.csv,taquicardia/formateado/taquicardia.ecg_0066.csv
+taquicardia,Taquicardia,120,250,20,5000,1794922306,taquicardia/raw/ecg_0067.csv,taquicardia/formateado/taquicardia.ecg_0067.csv
+taquicardia,Taquicardia,115,250,20,5000,2937832743,taquicardia/raw/ecg_0068.csv,taquicardia/formateado/taquicardia.ecg_0068.csv
+taquicardia,Taquicardia,134,250,20,5000,18469177,taquicardia/raw/ecg_0069.csv,taquicardia/formateado/taquicardia.ecg_0069.csv
+taquicardia,Taquicardia,112,250,20,5000,1698023075,taquicardia/raw/ecg_0070.csv,taquicardia/formateado/taquicardia.ecg_0070.csv
+taquicardia,Taquicardia,145,250,20,5000,1734429989,taquicardia/raw/ecg_0071.csv,taquicardia/formateado/taquicardia.ecg_0071.csv
+taquicardia,Taquicardia,124,250,20,5000,2881971632,taquicardia/raw/ecg_0072.csv,taquicardia/formateado/taquicardia.ecg_0072.csv
+taquicardia,Taquicardia,141,250,20,5000,837355091,taquicardia/raw/ecg_0073.csv,taquicardia/formateado/taquicardia.ecg_0073.csv
+taquicardia,Taquicardia,135,250,20,5000,3762698220,taquicardia/raw/ecg_0074.csv,taquicardia/formateado/taquicardia.ecg_0074.csv
+taquicardia,Taquicardia,145,250,20,5000,1396242854,taquicardia/raw/ecg_0075.csv,taquicardia/formateado/taquicardia.ecg_0075.csv
+taquicardia,Taquicardia,140,250,20,5000,3551113236,taquicardia/raw/ecg_0076.csv,taquicardia/formateado/taquicardia.ecg_0076.csv
+taquicardia,Taquicardia,112,250,20,5000,3554612099,taquicardia/raw/ecg_0077.csv,taquicardia/formateado/taquicardia.ecg_0077.csv
+taquicardia,Taquicardia,147,250,20,5000,3800531076,taquicardia/raw/ecg_0078.csv,taquicardia/formateado/taquicardia.ecg_0078.csv
+taquicardia,Taquicardia,145,250,20,5000,1111662422,taquicardia/raw/ecg_0079.csv,taquicardia/formateado/taquicardia.ecg_0079.csv
+taquicardia,Taquicardia,127,250,20,5000,3607196032,taquicardia/raw/ecg_0080.csv,taquicardia/formateado/taquicardia.ecg_0080.csv
+taquicardia,Taquicardia,109,250,20,5000,990021605,taquicardia/raw/ecg_0081.csv,taquicardia/formateado/taquicardia.ecg_0081.csv
+taquicardia,Taquicardia,114,250,20,5000,1715594629,taquicardia/raw/ecg_0082.csv,taquicardia/formateado/taquicardia.ecg_0082.csv
+taquicardia,Taquicardia,110,250,20,5000,763143193,taquicardia/raw/ecg_0083.csv,taquicardia/formateado/taquicardia.ecg_0083.csv
+taquicardia,Taquicardia,150,250,20,5000,2079326426,taquicardia/raw/ecg_0084.csv,taquicardia/formateado/taquicardia.ecg_0084.csv
+taquicardia,Taquicardia,142,250,20,5000,322957600,taquicardia/raw/ecg_0085.csv,taquicardia/formateado/taquicardia.ecg_0085.csv
+taquicardia,Taquicardia,107,250,20,5000,4109605810,taquicardia/raw/ecg_0086.csv,taquicardia/formateado/taquicardia.ecg_0086.csv
+taquicardia,Taquicardia,149,250,20,5000,55820020,taquicardia/raw/ecg_0087.csv,taquicardia/formateado/taquicardia.ecg_0087.csv
+taquicardia,Taquicardia,116,250,20,5000,2132864198,taquicardia/raw/ecg_0088.csv,taquicardia/formateado/taquicardia.ecg_0088.csv
+taquicardia,Taquicardia,134,250,20,5000,3599591883,taquicardia/raw/ecg_0089.csv,taquicardia/formateado/taquicardia.ecg_0089.csv
+taquicardia,Taquicardia,105,250,20,5000,569147258,taquicardia/raw/ecg_0090.csv,taquicardia/formateado/taquicardia.ecg_0090.csv
+taquicardia,Taquicardia,106,250,20,5000,2564532824,taquicardia/raw/ecg_0091.csv,taquicardia/formateado/taquicardia.ecg_0091.csv
+taquicardia,Taquicardia,129,250,20,5000,2280982096,taquicardia/raw/ecg_0092.csv,taquicardia/formateado/taquicardia.ecg_0092.csv
+taquicardia,Taquicardia,114,250,20,5000,3253594769,taquicardia/raw/ecg_0093.csv,taquicardia/formateado/taquicardia.ecg_0093.csv
+taquicardia,Taquicardia,147,250,20,5000,3000441567,taquicardia/raw/ecg_0094.csv,taquicardia/formateado/taquicardia.ecg_0094.csv
+taquicardia,Taquicardia,150,250,20,5000,3543405861,taquicardia/raw/ecg_0095.csv,taquicardia/formateado/taquicardia.ecg_0095.csv
+taquicardia,Taquicardia,108,250,20,5000,3407127398,taquicardia/raw/ecg_0096.csv,taquicardia/formateado/taquicardia.ecg_0096.csv
+taquicardia,Taquicardia,133,250,20,5000,2503364402,taquicardia/raw/ecg_0097.csv,taquicardia/formateado/taquicardia.ecg_0097.csv
+taquicardia,Taquicardia,114,250,20,5000,1503084740,taquicardia/raw/ecg_0098.csv,taquicardia/formateado/taquicardia.ecg_0098.csv
+taquicardia,Taquicardia,121,250,20,5000,461401262,taquicardia/raw/ecg_0099.csv,taquicardia/formateado/taquicardia.ecg_0099.csv
+taquicardia,Taquicardia,120,250,20,5000,703592062,taquicardia/raw/ecg_0100.csv,taquicardia/formateado/taquicardia.ecg_0100.csv
+taquicardia,Taquicardia,125,250,20,5000,3741808039,taquicardia/raw/ecg_0101.csv,taquicardia/formateado/taquicardia.ecg_0101.csv
+taquicardia,Taquicardia,139,250,20,5000,1144611471,taquicardia/raw/ecg_0102.csv,taquicardia/formateado/taquicardia.ecg_0102.csv
+taquicardia,Taquicardia,131,250,20,5000,3839832487,taquicardia/raw/ecg_0103.csv,taquicardia/formateado/taquicardia.ecg_0103.csv
+taquicardia,Taquicardia,148,250,20,5000,1314630831,taquicardia/raw/ecg_0104.csv,taquicardia/formateado/taquicardia.ecg_0104.csv
+taquicardia,Taquicardia,119,250,20,5000,245917195,taquicardia/raw/ecg_0105.csv,taquicardia/formateado/taquicardia.ecg_0105.csv
+taquicardia,Taquicardia,140,250,20,5000,1245529704,taquicardia/raw/ecg_0106.csv,taquicardia/formateado/taquicardia.ecg_0106.csv
+taquicardia,Taquicardia,121,250,20,5000,1652061640,taquicardia/raw/ecg_0107.csv,taquicardia/formateado/taquicardia.ecg_0107.csv
+taquicardia,Taquicardia,109,250,20,5000,445302670,taquicardia/raw/ecg_0108.csv,taquicardia/formateado/taquicardia.ecg_0108.csv
+taquicardia,Taquicardia,131,250,20,5000,1845810697,taquicardia/raw/ecg_0109.csv,taquicardia/formateado/taquicardia.ecg_0109.csv
+taquicardia,Taquicardia,120,250,20,5000,3427138692,taquicardia/raw/ecg_0110.csv,taquicardia/formateado/taquicardia.ecg_0110.csv
+taquicardia,Taquicardia,114,250,20,5000,1777342877,taquicardia/raw/ecg_0111.csv,taquicardia/formateado/taquicardia.ecg_0111.csv
+taquicardia,Taquicardia,119,250,20,5000,2120572014,taquicardia/raw/ecg_0112.csv,taquicardia/formateado/taquicardia.ecg_0112.csv
+taquicardia,Taquicardia,111,250,20,5000,4289697156,taquicardia/raw/ecg_0113.csv,taquicardia/formateado/taquicardia.ecg_0113.csv
+taquicardia,Taquicardia,118,250,20,5000,924790326,taquicardia/raw/ecg_0114.csv,taquicardia/formateado/taquicardia.ecg_0114.csv
+taquicardia,Taquicardia,137,250,20,5000,2336095665,taquicardia/raw/ecg_0115.csv,taquicardia/formateado/taquicardia.ecg_0115.csv
+taquicardia,Taquicardia,139,250,20,5000,4242380942,taquicardia/raw/ecg_0116.csv,taquicardia/formateado/taquicardia.ecg_0116.csv
+taquicardia,Taquicardia,137,250,20,5000,2129120228,taquicardia/raw/ecg_0117.csv,taquicardia/formateado/taquicardia.ecg_0117.csv
+taquicardia,Taquicardia,119,250,20,5000,2540126579,taquicardia/raw/ecg_0118.csv,taquicardia/formateado/taquicardia.ecg_0118.csv
+taquicardia,Taquicardia,146,250,20,5000,2348086175,taquicardia/raw/ecg_0119.csv,taquicardia/formateado/taquicardia.ecg_0119.csv
+taquicardia,Taquicardia,130,250,20,5000,495077448,taquicardia/raw/ecg_0120.csv,taquicardia/formateado/taquicardia.ecg_0120.csv
+taquicardia,Taquicardia,125,250,20,5000,3075778655,taquicardia/raw/ecg_0121.csv,taquicardia/formateado/taquicardia.ecg_0121.csv
+taquicardia,Taquicardia,142,250,20,5000,3917326432,taquicardia/raw/ecg_0122.csv,taquicardia/formateado/taquicardia.ecg_0122.csv
+taquicardia,Taquicardia,134,250,20,5000,3979615260,taquicardia/raw/ecg_0123.csv,taquicardia/formateado/taquicardia.ecg_0123.csv
+taquicardia,Taquicardia,107,250,20,5000,2519723096,taquicardia/raw/ecg_0124.csv,taquicardia/formateado/taquicardia.ecg_0124.csv
+taquicardia,Taquicardia,116,250,20,5000,1514024448,taquicardia/raw/ecg_0125.csv,taquicardia/formateado/taquicardia.ecg_0125.csv
+taquicardia,Taquicardia,148,250,20,5000,2901294660,taquicardia/raw/ecg_0126.csv,taquicardia/formateado/taquicardia.ecg_0126.csv
+taquicardia,Taquicardia,125,250,20,5000,4057099569,taquicardia/raw/ecg_0127.csv,taquicardia/formateado/taquicardia.ecg_0127.csv
+taquicardia,Taquicardia,123,250,20,5000,4201061526,taquicardia/raw/ecg_0128.csv,taquicardia/formateado/taquicardia.ecg_0128.csv
+taquicardia,Taquicardia,118,250,20,5000,1215283012,taquicardia/raw/ecg_0129.csv,taquicardia/formateado/taquicardia.ecg_0129.csv
+taquicardia,Taquicardia,134,250,20,5000,4018743155,taquicardia/raw/ecg_0130.csv,taquicardia/formateado/taquicardia.ecg_0130.csv
+taquicardia,Taquicardia,108,250,20,5000,3136567763,taquicardia/raw/ecg_0131.csv,taquicardia/formateado/taquicardia.ecg_0131.csv
+taquicardia,Taquicardia,124,250,20,5000,3744511906,taquicardia/raw/ecg_0132.csv,taquicardia/formateado/taquicardia.ecg_0132.csv
+taquicardia,Taquicardia,140,250,20,5000,719325451,taquicardia/raw/ecg_0133.csv,taquicardia/formateado/taquicardia.ecg_0133.csv
+taquicardia,Taquicardia,135,250,20,5000,4192947659,taquicardia/raw/ecg_0134.csv,taquicardia/formateado/taquicardia.ecg_0134.csv
+taquicardia,Taquicardia,111,250,20,5000,3236333907,taquicardia/raw/ecg_0135.csv,taquicardia/formateado/taquicardia.ecg_0135.csv
+taquicardia,Taquicardia,110,250,20,5000,715186692,taquicardia/raw/ecg_0136.csv,taquicardia/formateado/taquicardia.ecg_0136.csv
+taquicardia,Taquicardia,116,250,20,5000,2319801223,taquicardia/raw/ecg_0137.csv,taquicardia/formateado/taquicardia.ecg_0137.csv
+taquicardia,Taquicardia,141,250,20,5000,479032379,taquicardia/raw/ecg_0138.csv,taquicardia/formateado/taquicardia.ecg_0138.csv
+taquicardia,Taquicardia,106,250,20,5000,3112080896,taquicardia/raw/ecg_0139.csv,taquicardia/formateado/taquicardia.ecg_0139.csv
+taquicardia,Taquicardia,119,250,20,5000,2556281380,taquicardia/raw/ecg_0140.csv,taquicardia/formateado/taquicardia.ecg_0140.csv
+taquicardia,Taquicardia,124,250,20,5000,2483724338,taquicardia/raw/ecg_0141.csv,taquicardia/formateado/taquicardia.ecg_0141.csv
+taquicardia,Taquicardia,120,250,20,5000,3638821851,taquicardia/raw/ecg_0142.csv,taquicardia/formateado/taquicardia.ecg_0142.csv
+taquicardia,Taquicardia,110,250,20,5000,3305961711,taquicardia/raw/ecg_0143.csv,taquicardia/formateado/taquicardia.ecg_0143.csv
+taquicardia,Taquicardia,124,250,20,5000,393914448,taquicardia/raw/ecg_0144.csv,taquicardia/formateado/taquicardia.ecg_0144.csv
+taquicardia,Taquicardia,146,250,20,5000,3273362448,taquicardia/raw/ecg_0145.csv,taquicardia/formateado/taquicardia.ecg_0145.csv
+taquicardia,Taquicardia,112,250,20,5000,2325577334,taquicardia/raw/ecg_0146.csv,taquicardia/formateado/taquicardia.ecg_0146.csv
+taquicardia,Taquicardia,112,250,20,5000,810806703,taquicardia/raw/ecg_0147.csv,taquicardia/formateado/taquicardia.ecg_0147.csv
+taquicardia,Taquicardia,118,250,20,5000,1491123648,taquicardia/raw/ecg_0148.csv,taquicardia/formateado/taquicardia.ecg_0148.csv
+taquicardia,Taquicardia,150,250,20,5000,2186971933,taquicardia/raw/ecg_0149.csv,taquicardia/formateado/taquicardia.ecg_0149.csv
+taquicardia,Taquicardia,124,250,20,5000,3688714535,taquicardia/raw/ecg_0150.csv,taquicardia/formateado/taquicardia.ecg_0150.csv
+taquicardia,Taquicardia,106,250,20,5000,3787743977,taquicardia/raw/ecg_0151.csv,taquicardia/formateado/taquicardia.ecg_0151.csv
+taquicardia,Taquicardia,106,250,20,5000,438525451,taquicardia/raw/ecg_0152.csv,taquicardia/formateado/taquicardia.ecg_0152.csv
+taquicardia,Taquicardia,106,250,20,5000,1899038927,taquicardia/raw/ecg_0153.csv,taquicardia/formateado/taquicardia.ecg_0153.csv
+taquicardia,Taquicardia,150,250,20,5000,3622930298,taquicardia/raw/ecg_0154.csv,taquicardia/formateado/taquicardia.ecg_0154.csv
+taquicardia,Taquicardia,108,250,20,5000,2587132519,taquicardia/raw/ecg_0155.csv,taquicardia/formateado/taquicardia.ecg_0155.csv
+taquicardia,Taquicardia,148,250,20,5000,3672892296,taquicardia/raw/ecg_0156.csv,taquicardia/formateado/taquicardia.ecg_0156.csv
+taquicardia,Taquicardia,117,250,20,5000,2565212665,taquicardia/raw/ecg_0157.csv,taquicardia/formateado/taquicardia.ecg_0157.csv
+taquicardia,Taquicardia,121,250,20,5000,957931833,taquicardia/raw/ecg_0158.csv,taquicardia/formateado/taquicardia.ecg_0158.csv
+taquicardia,Taquicardia,145,250,20,5000,2159735344,taquicardia/raw/ecg_0159.csv,taquicardia/formateado/taquicardia.ecg_0159.csv
+taquicardia,Taquicardia,126,250,20,5000,2212573192,taquicardia/raw/ecg_0160.csv,taquicardia/formateado/taquicardia.ecg_0160.csv
+taquicardia,Taquicardia,114,250,20,5000,3840035409,taquicardia/raw/ecg_0161.csv,taquicardia/formateado/taquicardia.ecg_0161.csv
+taquicardia,Taquicardia,132,250,20,5000,1527944380,taquicardia/raw/ecg_0162.csv,taquicardia/formateado/taquicardia.ecg_0162.csv
+taquicardia,Taquicardia,132,250,20,5000,1009272731,taquicardia/raw/ecg_0163.csv,taquicardia/formateado/taquicardia.ecg_0163.csv
+taquicardia,Taquicardia,127,250,20,5000,3216320490,taquicardia/raw/ecg_0164.csv,taquicardia/formateado/taquicardia.ecg_0164.csv
+taquicardia,Taquicardia,143,250,20,5000,1802086372,taquicardia/raw/ecg_0165.csv,taquicardia/formateado/taquicardia.ecg_0165.csv
+taquicardia,Taquicardia,137,250,20,5000,2080270235,taquicardia/raw/ecg_0166.csv,taquicardia/formateado/taquicardia.ecg_0166.csv
+taquicardia,Taquicardia,108,250,20,5000,4194407013,taquicardia/raw/ecg_0167.csv,taquicardia/formateado/taquicardia.ecg_0167.csv
+taquicardia,Taquicardia,144,250,20,5000,2897579911,taquicardia/raw/ecg_0168.csv,taquicardia/formateado/taquicardia.ecg_0168.csv
+taquicardia,Taquicardia,107,250,20,5000,2885569289,taquicardia/raw/ecg_0169.csv,taquicardia/formateado/taquicardia.ecg_0169.csv
+taquicardia,Taquicardia,115,250,20,5000,4011019828,taquicardia/raw/ecg_0170.csv,taquicardia/formateado/taquicardia.ecg_0170.csv
+taquicardia,Taquicardia,109,250,20,5000,3076462801,taquicardia/raw/ecg_0171.csv,taquicardia/formateado/taquicardia.ecg_0171.csv
+taquicardia,Taquicardia,122,250,20,5000,4100716127,taquicardia/raw/ecg_0172.csv,taquicardia/formateado/taquicardia.ecg_0172.csv
+taquicardia,Taquicardia,141,250,20,5000,2720015693,taquicardia/raw/ecg_0173.csv,taquicardia/formateado/taquicardia.ecg_0173.csv
+taquicardia,Taquicardia,128,250,20,5000,2522927804,taquicardia/raw/ecg_0174.csv,taquicardia/formateado/taquicardia.ecg_0174.csv
+taquicardia,Taquicardia,133,250,20,5000,1220743205,taquicardia/raw/ecg_0175.csv,taquicardia/formateado/taquicardia.ecg_0175.csv
+taquicardia,Taquicardia,129,250,20,5000,991261630,taquicardia/raw/ecg_0176.csv,taquicardia/formateado/taquicardia.ecg_0176.csv
+taquicardia,Taquicardia,117,250,20,5000,2282785273,taquicardia/raw/ecg_0177.csv,taquicardia/formateado/taquicardia.ecg_0177.csv
+taquicardia,Taquicardia,134,250,20,5000,253644957,taquicardia/raw/ecg_0178.csv,taquicardia/formateado/taquicardia.ecg_0178.csv
+taquicardia,Taquicardia,150,250,20,5000,722791433,taquicardia/raw/ecg_0179.csv,taquicardia/formateado/taquicardia.ecg_0179.csv
+taquicardia,Taquicardia,130,250,20,5000,3042422642,taquicardia/raw/ecg_0180.csv,taquicardia/formateado/taquicardia.ecg_0180.csv
+taquicardia,Taquicardia,117,250,20,5000,2916331090,taquicardia/raw/ecg_0181.csv,taquicardia/formateado/taquicardia.ecg_0181.csv
+taquicardia,Taquicardia,128,250,20,5000,121732855,taquicardia/raw/ecg_0182.csv,taquicardia/formateado/taquicardia.ecg_0182.csv
+taquicardia,Taquicardia,144,250,20,5000,700789187,taquicardia/raw/ecg_0183.csv,taquicardia/formateado/taquicardia.ecg_0183.csv
+taquicardia,Taquicardia,110,250,20,5000,2653535359,taquicardia/raw/ecg_0184.csv,taquicardia/formateado/taquicardia.ecg_0184.csv
+taquicardia,Taquicardia,113,250,20,5000,1750861249,taquicardia/raw/ecg_0185.csv,taquicardia/formateado/taquicardia.ecg_0185.csv
+taquicardia,Taquicardia,106,250,20,5000,2529589227,taquicardia/raw/ecg_0186.csv,taquicardia/formateado/taquicardia.ecg_0186.csv
+taquicardia,Taquicardia,145,250,20,5000,552769525,taquicardia/raw/ecg_0187.csv,taquicardia/formateado/taquicardia.ecg_0187.csv
+taquicardia,Taquicardia,131,250,20,5000,3704347733,taquicardia/raw/ecg_0188.csv,taquicardia/formateado/taquicardia.ecg_0188.csv
+taquicardia,Taquicardia,114,250,20,5000,1112118075,taquicardia/raw/ecg_0189.csv,taquicardia/formateado/taquicardia.ecg_0189.csv
+taquicardia,Taquicardia,126,250,20,5000,1608054056,taquicardia/raw/ecg_0190.csv,taquicardia/formateado/taquicardia.ecg_0190.csv
+taquicardia,Taquicardia,108,250,20,5000,1930029548,taquicardia/raw/ecg_0191.csv,taquicardia/formateado/taquicardia.ecg_0191.csv
+taquicardia,Taquicardia,147,250,20,5000,2546182265,taquicardia/raw/ecg_0192.csv,taquicardia/formateado/taquicardia.ecg_0192.csv
+taquicardia,Taquicardia,119,250,20,5000,4211295490,taquicardia/raw/ecg_0193.csv,taquicardia/formateado/taquicardia.ecg_0193.csv
+taquicardia,Taquicardia,109,250,20,5000,899491475,taquicardia/raw/ecg_0194.csv,taquicardia/formateado/taquicardia.ecg_0194.csv
+taquicardia,Taquicardia,150,250,20,5000,697439105,taquicardia/raw/ecg_0195.csv,taquicardia/formateado/taquicardia.ecg_0195.csv
+taquicardia,Taquicardia,142,250,20,5000,624216047,taquicardia/raw/ecg_0196.csv,taquicardia/formateado/taquicardia.ecg_0196.csv
+taquicardia,Taquicardia,115,250,20,5000,3327453106,taquicardia/raw/ecg_0197.csv,taquicardia/formateado/taquicardia.ecg_0197.csv
+taquicardia,Taquicardia,135,250,20,5000,1642634720,taquicardia/raw/ecg_0198.csv,taquicardia/formateado/taquicardia.ecg_0198.csv
+taquicardia,Taquicardia,117,250,20,5000,3981291691,taquicardia/raw/ecg_0199.csv,taquicardia/formateado/taquicardia.ecg_0199.csv
+taquicardia,Taquicardia,126,250,20,5000,285870153,taquicardia/raw/ecg_0200.csv,taquicardia/formateado/taquicardia.ecg_0200.csv
