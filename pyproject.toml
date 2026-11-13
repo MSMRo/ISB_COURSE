@@ -8,9 +8,12 @@ authors = [
 ]
 requires-python = ">=3.12"
 dependencies = [
+    "ipykernel>=7.4.0",
     "isb-lib",
     "matplotlib>=3.11.2",
+    "matplotlib-inline>=0.2.2",
     "numpy>=2.5.4",
+    "opensignalsreader",
     "pandas>=3.1.1",
     "scikit-learn>=1.9.1",
     "scipy>=1.18.1",
@@ -27,3 +30,4 @@ build-backend = "uv_build"
 
 [tool.uv.sources]
 isb-lib = { git = "https://github.com/MSMRo/ISB_LIB.git" }
+opensignalsreader = { path = "src/opensignalsreader", editable = true }
