@@ -15,3 +15,11 @@ La carpeta `records_bitalino/` contiene ejemplos organizados por etiqueta. `otro
 ## Uso
 
 Abre los notebooks con el entorno del proyecto (consulta los requisitos en el [README principal](../readme.md)) y revisa las rutas de entrada y salida antes de ejecutar las celdas. Conserva la organización por etiqueta y no sobrescribas datos originales que quieras mantener.
+
+## Edge impulse
+
+ejemplo para probar subir los files 
+
+```
+https://studio.edgeimpulse.com/public/1163178/live
+```
